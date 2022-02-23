@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install i 
 ```
 
 ### Compiles and hot-reloads for development
@@ -10,15 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### usage
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+登录名：13700000000
+密码:000000
